@@ -4,6 +4,11 @@
     - [Core states](#core-states)
     - [Random events](#random-events)
 
+To run use:
+```
+python main.py
+```
+
 Finite state machine diagram
 ![fsmdiagram](./assets/fsm.png)
 
